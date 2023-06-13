@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiransais03&label=Profile%20views&color=0e75b6&style=flat" alt="kiransais03" /> </p>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/kiransais03) [![followers](https://img.shields.io/github/followers/kiransais03?style=social)](https://github.com/kiransais03?tab=followers) [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kiransais03)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/kiransais03) [![followers](https://img.shields.io/github/followers/kiransais03?style=social)](https://github.com/kiransais03?tab=followers)
 
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/guduru-kiran-sai/)
 
