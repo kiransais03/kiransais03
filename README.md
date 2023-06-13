@@ -50,12 +50,8 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiransais03&layout=compact)](https://github.com/lovegupta112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiransais03&layout=compact)](https://github.com/kiransais03/github-readme-stats)
 
 
-
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiransais03&" alt="kiransais03" /></p>
- -->
 
  
