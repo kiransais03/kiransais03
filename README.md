@@ -14,11 +14,11 @@
 
 
 
-- 🔭 I’m currently Learning on **WebDevelopment** and **Dsa**.
+- 🔭 I’m currently Learning on **Web Development** and **DSA**.
 
-- 🌱 I always try to learn some new things about **React, MySQL , Advanced JavaScript ,Java**
+- 🌱 I always try to learn some new things about **React , Advanced JavaScript ,Java**
 
-- 👯 I’m looking to collaborate on **Web site design, cyber security etc.**
+- 👯 I’m looking to collaborate on **Web Design.**
 
 - 💬 Ask me about **React , JavaScript , CSS style design**
 
