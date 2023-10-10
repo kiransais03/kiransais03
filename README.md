@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <h1 align="center">Hi 👋, I'm Kiran Sai</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Full Stack Developer(Node.js,Express,React,MongoDB,HTML,CSS).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiransais03&label=Profile%20views&color=0e75b6&style=flat" alt="kiransais03" /> </p>
 
@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently Learning on **Web Development** and **DSA**.
 
-- 🌱 I always try to learn some new things about **React , Advanced JavaScript ,Java**
+- 🌱 I always try to learn some new things about **Node.js,Express,React,MongoDB,Advanced JavaScript,Java**
 
 - 👯 I’m looking to collaborate on **Web Design.**
 
-- 💬 Ask me about **React , JavaScript , CSS style design**
+- 💬 Ask me about **React, Node.js, JavaScript, CSS style design**
 
 - 📫 How to reach me **kiransais03@gmail.com**
 
@@ -34,6 +34,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+ <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" width="40" height="40"/> </a>
+<a href="http://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="node.js" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="node.js" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"></a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
